@@ -1,4 +1,4 @@
-# Targe of project
+# Target of project
 To adapt project from week 1 of opensap_ui52 course to local development (original for SAP WebIDE).
 
 # Local development
